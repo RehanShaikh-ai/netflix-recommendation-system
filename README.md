@@ -59,8 +59,8 @@ Place it in a folder called `data/`.
 ## 🚀 How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/RehanShaikh-ai/netflix-recommender.git
-cd netflix-recommender
+git clone https://github.com/RehanShaikh-ai/netflix-recommendation-system.git
+cd netflix-recommendation-system
 
 # Install dependencies
 pip install -r requirements.txt
