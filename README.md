@@ -59,7 +59,7 @@ Place it in a folder called `data/`.
 ## 🚀 How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/netflix-recommender.git
+git clone https://github.com/RehanShaikh-ai/netflix-recommender.git
 cd netflix-recommender
 
 # Install dependencies
