@@ -1,5 +1,13 @@
 # 📺 Netflix Recommendation System
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-data%20processing-lightblue?logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
+![Surprise](https://img.shields.io/badge/Surprise-CollabFiltering-yellow?logo=python&logoColor=black)
+![RMSE](https://img.shields.io/badge/RMSE-0.901-success)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 ## 📌 Overview
 This project builds a **Netflix-style movie recommendation system** using the [Netflix Prize Dataset](https://www.kaggle.com/netflix-inc/netflix-prize-data).  
 We aim to predict **user ratings for unseen movies** and recommend movies a user is most likely to enjoy.
@@ -19,9 +27,9 @@ The system uses:
   - **Ratings lines:** `CustomerID,Rating,Date`
 
 **Note:**  
-The raw dataset is **too large for GitHub** and is excluded via `.gitignore`.  
-You can download it here: [Netflix Prize Data](https://www.kaggle.com/netflix-inc/netflix-prize-data)  
-Place it in a folder called `data/`.
+* The raw dataset is **too large for GitHub** and is excluded via `.gitignore`.
+* The movie_titles.csv is included in the repo.
+* You can download it here: [Netflix Prize Data](https://www.kaggle.com/netflix-inc/netflix-prize-data).
 
 ---
 
@@ -64,15 +72,13 @@ cd netflix-recommendation-system
 
 # Install dependencies
 pip install -r requirements.txt
+```
+## **👤 Author**
 
+**Rehan Abdul Gani Shaikh**
+**Aspiring Data Scientist | B.Tech Student**
+
+**🔗 Connect with me: LinkedIn**
+**📬 Email: rehansk.3107@gmail.com**
 # Run Jupyter Notebook
 jupyter notebook
-```
----
-
-## 👤 Author  
-**Rehan Abdul Gani Shaikh**  
-_Aspiring Data Scientist | B.Tech Student_  
-
-🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/rehan-shaikh-68153a246)  
-📬 **Email:** rehansk.3107@gmail.com  
