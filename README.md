@@ -69,9 +69,6 @@ The system uses:
 # Clone the repository
 git clone https://github.com/RehanShaikh-ai/netflix-recommendation-system.git
 cd netflix-recommendation-system
-
-# Install dependencies
-pip install -r requirements.txt
 ```
 ## **👤 Author**
 
@@ -80,5 +77,4 @@ pip install -r requirements.txt
 
 **🔗 Connect with me: LinkedIn**
 **📬 Email: rehansk.3107@gmail.com**
-# Run Jupyter Notebook
-jupyter notebook
+
