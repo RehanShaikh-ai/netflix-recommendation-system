@@ -8,6 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+![netflix-logo](netflix-logo.png)
 ## 📌 Overview
 This project builds a **Netflix-style movie recommendation system** using the [Netflix Prize Dataset](https://www.kaggle.com/netflix-inc/netflix-prize-data).  
 We aim to predict **user ratings for unseen movies** and recommend movies a user is most likely to enjoy.
@@ -41,7 +42,7 @@ The system uses:
 - **Jupyter Notebook** → Development environment
 
 ---
-
+![ratings_count](ratings_count.png)
 ## 📍 Project Steps
 1. **Data Import & Parsing**
    - Read raw `.txt` files
